@@ -1,12 +1,6 @@
 # miniBoot
 
-A stripped version of Bootstrap 3.3.7
-
-## Extra Features
-
-### .no-gutter
-
-Class that can be added to an element above your columns to set the gutter to 0.
+A stripped back version of Bootstrap 3.3.7
 
 ### Added 2 new breakpoints. sl and xlg
 
