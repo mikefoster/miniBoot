@@ -6,7 +6,7 @@ A stripped back version of Bootstrap 3.3.7
 
 'sl' Breakpoint is between col-xs-* and col-sm-*.
 
-'xlg' Breakpoint is from col-lg up.
+'xlg' Breakpoint is from col-xlg (1400px) up.
 
 New xlg column class is col-xlg-*
 
