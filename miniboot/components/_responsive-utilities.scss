@@ -109,17 +109,17 @@
 }
 
 .visible-lg-block {
-  @media (min-width: $screen-lg-min) {
+  @media (min-width: $screen-lg-min) and (max-width: $screen-lg-max) {
     display: block !important;
   }
 }
 .visible-lg-inline {
-  @media (min-width: $screen-lg-min) {
+  @media (min-width: $screen-lg-min) and (max-width: $screen-lg-max) {
     display: inline !important;
   }
 }
 .visible-lg-inline-block {
-  @media (min-width: $screen-lg-min) {
+  @media (min-width: $screen-lg-min) and (max-width: $screen-lg-max) {
     display: inline-block !important;
   }
 }

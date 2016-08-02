@@ -81,7 +81,8 @@ $container-md:                 $container-desktop !default;
 $container-large-desktop:      ((1140px + $grid-gutter-width)) !default;
 //** For `$screen-lg-min` and up.
 $container-lg:    $container-large-desktop !default;
+
 // Xtra Large screen / wide desktop
 $container-xlarge-desktop:      ((1340px + $grid-gutter-width)) !default;
-//** For `$screen-lg-min` and up.
+//** For `$screen-xlg-min` and up.
 $container-xlg:                 $container-xlarge-desktop !default;
