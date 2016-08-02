@@ -1,0 +1,12 @@
+{
+  "name": "miniBoot",
+  "dependencies": {
+    "animate.css": "^3.5.2"
+  },
+    "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dist"
+  ]
+}
