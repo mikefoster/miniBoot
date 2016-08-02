@@ -2,7 +2,8 @@
 
 A stripped back version of Bootstrap 3.3.7
 
-Contains a Gulp file for task management and Bower for package management
+Inspired by Sebastian De Deyne's tinybootstrap
+
 
 ### Added 2 new breakpoints. sl and xlg
 

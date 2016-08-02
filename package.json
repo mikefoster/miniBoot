@@ -7,17 +7,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mikefoster/miniBoot"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.0",
-    "gulp-clean-css": "^2.0.12",
-    "gulp-concat": "^2.6.0",
-    "gulp-filter": "^4.0.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.2.0",
-    "gulp-watch": "^4.3.5",
-    "main-bower-files": "^2.13.1",
-    "run-sequence": "^1.2.2"
   }
 }
