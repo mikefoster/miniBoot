@@ -1,4 +1,4 @@
-# miniBoot
+# miniBoot V 1.1
 
 A stripped back version of Bootstrap 3.3.7
 
